@@ -20,4 +20,8 @@ writes a very nice conclusion for the document
 and commits it.
 *PLACE HOLDER: (ASTUDENT or BSTUDENT)'S TEXT*
 this is getting more interesting
+<<<<<<< HEAD
 ok, no probs!
+=======
+yes
+>>>>>>> origin/b_modification
